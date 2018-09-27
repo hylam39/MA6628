@@ -2,4 +2,4 @@
 
 Assignments are given below:
 
-- [Prj01](Prf01.ipynb)
+- [Prj01](Prj01.ipynb)
